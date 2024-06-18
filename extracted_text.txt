@@ -1,0 +1,120 @@
+Nowgiya Shaik                                                                                     91-8971521536  
+Data Scientist || Machine Learning Engineer (3  +yrs.)          nowziyashaik46@gmail.com  
+CAREER OBJECTIVE:  
+Experienced Data Scientist/ML Engineer with (3+) a strong background in machine learning, NLP, and computer 
+vision. Proficient in developing and deploying machine learning models to solve complex business problems. 
+Strong programming skills in Python and experience with libraries such as matplotlib, seaborn and scikit -learn.   
+EXPERIENCE:  
+Data Scientist/ML Engineer  
+Company: SARAG SYSTEMS PRIVATE LIMITED  
+Location - Hyderabad   
+• Developed a computer vision model for object detection in images using the YOLO(You Only Look 
+Once)models.  
+• Implemented natural language processing techniques for sentiment analysis of customer reviews, 
+achieving an accuracy of 85%.  
+• Led a team of data scientists to develop a machine learning pipeline for fraud detection, reducing false 
+positives by 20%.  
+RESPONSIBILITIES:  
+• Conducted data preprocessing, feature engineering, and model training/validation.  
+• Collaborated with cross -functional teams to define project requirements and deliverables.  
+• Deployed machine learning models to production using Flask and Docker.  
+• Implementing best practices in data science, including model evaluation, validation, and deployment.  
+• Responsible for Train and fine -tune machine learning models using appropriate algorithms and 
+techniques. Evaluate model performance, identify are as for improvement and implement necessary 
+optimizations.  
+• Responsible for Pre -processing and cleaning raw data, ensuring its quality, completeness and integrity. 
+Handle missing data, outliers and inconsistencies to ensure reliable analysis and modelling r esults.  
+ALGORITHMS:  
+• Linear Regression  
+• Logistic Regression  
+• K Means Clustering  
+• Decision Tree  
+• KNN Classification  
+• Random forest  
+• NLP  
+PROJECTS:  
+Project 1: Product Description Generation    
+  
+Description:  Developed a generative AI model to automatically generate product descriptions based on 
+product images. The model used a combination of image analysis and natural language processing to create  
+compelling and accurate descriptions.  
+Responsibilities:  
+• Collected and preprocessed a dataset of product images and corresponding descriptions.   
+• Implemented a generative model architecture suitable for image -to-text conversion.   
+• Fine -tuned the model to ensure coherence and relevance of generated descriptions.   
+• Deplo yed the model as part of a retail website to enhance product listings.   
+Model Techniques:  
+• Lang Chain  
+• LLAMA2  
+• GPT 3.5 Turbo  
+• GPT 4  
+• Chroma db  
+• RAG  
+Project 2: Facial Expression -Based Feedback:  
+Description : Integrate YOLO to detect and analyze  customer facial expressions during shopping or checkout. 
+Positive or negative expressions can be used to gauge satisfaction levels. This data helps assess the quality of 
+customer service, product attractiveness, or checkout processes. Staff can receive in sights to enhance overall 
+store experience. The project aims to use direct visual cues for continuous improvement in customer 
+engagement.  
+Responsibilities:  
+• Collect and pre-process  datasets for facial expression analysis.  
+• Annotate and label images with relevant facial expressions.  
+• Augment and partition data for training, validation, and testing.  
+• Configure and optimize YOLO model parameters for facial recognition tasks.  
+• Train and fine -tune the model for accurate expression detection.  
+• Implement validation and testing pipelines for performance evaluation.  
+• Analyze model results, identify misclassifications, and refine the training approach.  
+• Develop custom post -processing logic to interpret detected facial expressions.  
+• Document and report findings, trends, and actionable insights . 
+• Collaborate with other teams to integ rate r esults into broader applications.  
+Algorithms:  
+• Yolo v7,v8  
+• IOU  
+• MAP  
+• Object detection  
+• Instant segmentation  
+Project 3: Fraud Detection  
+Description:  Developed a machine learning pipeline for fraud detection in financial transactions. The objective  
+was to build a model that could automatically identify fraudulent transactions based on various features and 
+patterns in the transaction data.      
+Responsibilities:  
+• Conducted exploratory data analysis (EDA) to understand the distribution of features and identify 
+potential patterns related to fraudulent transactions.   
+• Engineered features by creating new variables, aggregating transaction data, and encoding categorical 
+variables to improve the model's ability to detect fraud.   
+• Implemented an ensemble learni ng approach, such as Random Forest or Gradient Boosting, to combine 
+multiple machine learning models and improve fraud detection accuracy.   
+• Evaluated the model's performance using metrics like precision, recall, and F1 -score to assess its 
+effectiveness in detecting fraudulent transactions while minimizing false positives.   
+Algorithms:  
+• Random forest  
+• XG boost  
+• ADA Boost  
+Project 4: Sentiment Analysis  
+Description : Description: Built a sentiment analysis model using a recurrent neural network (RNN) with LSTM  
+cells. The objective was to analyze and classify the sentiment (positive, negative, neutral) of text data, such as 
+customer reviews or social media posts.  
+Responsibilities :  
+• Preprocessed text data by tokenizing, padding, and converting words into numerical representations 
+(word embeddings) to feed into the RNN model.   
+• Utilized pre -trained word embeddings like GloVe (Global Vectors for Word Representation) to enhance 
+the model's understanding of the text's semantic meaning.   
+• Designed and trained the  RNN model architecture, including LSTM cells, to learn the sequential 
+patterns in the text data and predict sentiment labels.   
+• Fine -tuned hyperparameters, such as learning rate, batch size, and number of LSTM units, to optimize 
+the model's performance on the sentiment analysis task.   
+Algorithms :  
+• Tf IDF vector, word2Vec  
+• Word embeddings  
+• XG boost  
+• ADA boost  
+• LSTM  
+• Naive bays   
+• Berd models  
+ EDUCATION:  
+Bachelor of Science in Computer Science  
+Vikrama Simhapuri University, Nellore (2018 -2021)  
+DECLARATION:  
+     I hereby declare that all the information furnished above is true to the best of my knowledge.  
+Date:    
+Place: Bangalore                                                                                                                         Nowgiya Shaik  
